@@ -1,2 +1,2 @@
 # exerc-javascript
-Esse repositório será usado para adicionar as listas de exercícios de JavaScript que resolvi para fins de documentação da evolução nos estudos. 
+Este repositório será dedicado à inclusão das listas de exercícios de JavaScript que resolvi, visando documentar minha progressão nos estudos.
